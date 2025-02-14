@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI with a project that uses a custom build process or has misconfigured dependencies.  It manifests as cryptic error messages during the build process, often without clear indication of the root cause. For example, you might encounter errors related to missing modules, incorrect webpack configurations, or problems with native modules.
